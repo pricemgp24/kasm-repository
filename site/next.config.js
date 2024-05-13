@@ -2,8 +2,8 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'Glenn Networking',
+    description: 'Hopefully Getting Networking CLasses working for everyone.',
     icon: '/img/logo.svg',
     listUrl: 'https://registry.kasmweb.com/',
     contactUrl: 'https://kasmweb.com/support',
